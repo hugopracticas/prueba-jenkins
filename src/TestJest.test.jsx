@@ -1,4 +1,3 @@
-// src/components/TestJest.test.jsx
 import { render, screen } from '@testing-library/react';
 import { TestJest } from './TestJest';
 
